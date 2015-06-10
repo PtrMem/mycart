@@ -1,0 +1,36 @@
+
+.order_id{
+	margin-top: 10Px;
+}
+.order_id span{
+	margin-left: 50px;
+	font-size: 20px;
+}
+
+.pay{
+	margin-top: 10px;
+	border: 2px solid #b0c2e1;
+	height: 300px;
+}
+
+.card{
+	padding-top: 20px;
+	width:790px;
+	margin: 0 auto;
+}
+
+.card li{
+	line-height: 32px;
+}
+
+
+.card_info{
+	margin-bottom: 10px;
+	line-height: 32px;
+	width: 280px;
+}
+.bank{
+	width: 195px;
+	height: 50px;
+	float: left;
+}

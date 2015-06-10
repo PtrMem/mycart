@@ -1,0 +1,41 @@
+.items{
+	margin-top: 20px;
+	text-align: center;
+
+}
+.item_img{
+	border: #aaa solid 1px;
+	width: 100px;
+	height: 125px;
+}
+
+.price{
+	display: block;
+	color:#E4393C;
+	text-align: left;
+	margin-left: 15px;
+	font-size: 20px;
+	margin-top: 5px;
+}
+
+.items li{
+	margin-top:20px;
+	display: block;
+	float: left;
+	margin-left: 30px;
+	width: 200px;
+}
+
+.book_name{
+	line-height: 30px;
+    text-align: center;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    overflow:hidden;
+	display: block;
+}
+
+.items_add{
+	width:96px;
+	height: 27px;
+}

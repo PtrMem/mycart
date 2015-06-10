@@ -1,0 +1,27 @@
+
+.checkout{
+	padding-top:20px;
+	width: 280px;
+	margin: 0 auto;
+}
+
+.checkout li{
+	text-align: left;
+}
+.checkout span,.checkout input,.checkout li{
+	display: block;
+}
+.checkout span{
+	float: left;
+}
+.checkout input{
+	float: right;
+}
+
+.continue_shop{
+	margin: 0 auto;
+	width: 135px;
+	position: relative;
+	top: -49px;
+	left:-67px;
+}

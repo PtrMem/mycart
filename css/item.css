@@ -1,0 +1,24 @@
+.item_img,.item_info{
+	margin-top: 20px;
+	margin-left: 30px;
+	float: left;
+}
+
+.item_img{
+	border: #aaa solid 1px;
+}
+.item_info{
+	white-space:pre-line;
+	width:588px;
+}
+
+.item{
+	margin-top: 20px; 
+}
+.item li{
+	line-height: 20px;
+}
+
+.item ul{
+	margin-top: -60px;
+}

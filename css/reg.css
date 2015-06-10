@@ -1,0 +1,20 @@
+.behov{
+	color: red;
+}
+
+.reg{
+	width: 600px;
+	margin: 0 auto;
+	margin-top:100px;
+}
+
+.reg li{
+	height: 20px;
+	line-height: 32px;
+	margin: 30px 0 20px 30px;
+}
+
+.reg input{
+	height: 30px;
+	width: 200px;
+}
